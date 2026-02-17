@@ -1,0 +1,15 @@
+# Ignore FAISS index
+faiss_index/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore environment files
+.env
+
+# Ignore generated PDFs
+*.pdf
+
+# Ignore system files
+.DS_Store
+Thumbs.db
